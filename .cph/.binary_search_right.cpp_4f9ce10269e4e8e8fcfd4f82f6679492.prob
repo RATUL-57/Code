@@ -1,0 +1,1 @@
+{"name":"Local: binary_search_right","url":"c:\\Users\\DELL\\Desktop\\Code\\Function\\binary_search_right.cpp","tests":[{"id":1673853563266,"input":"10 6\n1 2 6 6 6 7 7 7 7 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\Desktop\\Code\\Function\\binary_search_right.cpp","group":"local","local":true}

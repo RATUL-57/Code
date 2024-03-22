@@ -1,0 +1,1 @@
+{"name":"Local: dijkstra","url":"/run/media/ratul57/New Volume/Codes/Code/Function/dijkstra.cpp","tests":[{"id":1707223627218,"input":"6 9\n1 3 5\n1 2 1\n2 3 2\n2 4 2\n2 5 1\n3 5 2\n4 5 3\n4 6 1\n5 6 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/run/media/ratul57/New Volume/Codes/Code/Function/dijkstra.cpp","group":"local","local":true}
