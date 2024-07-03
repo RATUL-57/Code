@@ -37,9 +37,15 @@ int main()
     int a[n];
     for(i=0;i<n;i++)
     {
-        cin >> j;
-        
+        cin >> a[i];
     }
+
+    sort(a,a+n);
+
+    cout << binarySearch(a,1,2,12,-1);
+
+    
+
 }
 
 
